@@ -1,7 +1,3 @@
-Here’s an example of well-structured content you can add to your **README.md** file for your **Online Banking Application** project:
-
----
-
 # Online Banking Application
 
 Welcome to the **Online Banking Application** repository! This project is a comprehensive solution designed to simulate the functionalities of an online banking system, enabling users to manage their accounts, perform transactions, and view account details securely and efficiently.
@@ -64,8 +60,8 @@ Welcome to the **Online Banking Application** repository! This project is a comp
 ```
 online-banking-application/
 │
-├── frontend/         # Frontend code (React, HTML, CSS, JS)
-├── backend/          # Backend code (Spring Boot/Node.js)
+├── frontend/         # Frontend code 
+├── backend/          # Backend code 
 ├── database/         # Database setup scripts
 ├── docs/             # Documentation and resources
 └── README.md         # Project overview
@@ -108,5 +104,3 @@ For any inquiries or suggestions, feel free to contact:
 **GitHub**: [Kaladhar09](https://github.com/Kaladhar09)  
 
 ---
-
-This format ensures your project is well-documented, engaging, and user-friendly!
